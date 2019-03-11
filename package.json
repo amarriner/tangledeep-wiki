@@ -1,0 +1,19 @@
+{
+  "name": "tangledeep-wiki",
+  "version": "1.0.0",
+  "description": "Scripts to do stuff with the Tangledeep Wiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarriner/tangledeep-wiki.git"
+  },
+  "author": "Aaron Marriner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarriner/tangledeep-wiki/issues"
+  },
+  "homepage": "https://github.com/amarriner/tangledeep-wiki#readme"
+}
