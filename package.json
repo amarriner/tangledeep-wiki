@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/amarriner/tangledeep-wiki/issues"
   },
-  "homepage": "https://github.com/amarriner/tangledeep-wiki#readme"
+  "homepage": "https://github.com/amarriner/tangledeep-wiki#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "node-html-parser": "^1.1.12",
+    "puppeteer": "^1.13.0",
+    "request": "^2.88.0"
+  }
 }
